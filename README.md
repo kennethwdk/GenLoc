@@ -59,9 +59,6 @@ If you find this code useful for your research, please cite our paper:
     pages     = {20265-20274}
 }
 ```
-## Contact me
-If you have any questions about this code or paper, feel free to contact me at
-dongkai.wang@pku.edu.cn.
 
 ## Acknowledgement
 The code is mainly encouraged by [StableKeypoints](https://github.com/ubc-vision/StableKeypoints). We thank the authors for their contributions to the community!
